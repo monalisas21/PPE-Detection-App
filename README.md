@@ -27,6 +27,6 @@ This application detects **Personal Protective Equipment (PPE)** such as helmets
 
 ---
 
-## 📁 Project Structure
+
 
 
