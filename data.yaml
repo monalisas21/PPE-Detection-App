@@ -1,0 +1,13 @@
+train: ../train/images
+val: ../valid/images
+test: ../test/images
+
+nc: 16
+names: ['boots', 'earmuff', 'gloves', 'goggles', 'helmet', 'no-helm', 'no_boots', 'no_earmuff', 'no_glove', 'no_goggles', 'no_googles', 'no_helmet', 'no_shoes', 'no_vest', 'person', 'vest']
+
+roboflow:
+  workspace: ppe-ujjwv
+  project: ppe-rigs-wearpack
+  version: 2
+  license: CC BY 4.0
+  url: https://universe.roboflow.com/ppe-ujjwv/ppe-rigs-wearpack/dataset/2
